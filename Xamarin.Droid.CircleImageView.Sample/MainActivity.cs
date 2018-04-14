@@ -5,7 +5,7 @@ using Android.OS;
 namespace Xamarin.Droid.CircleImageView.Sample
 {
     [Activity(Label = "@string/app_name",
-        Icon = "@drawable/ic_launcher"
+        Icon = "@drawable/ic_launcher",
         Theme = "@style/AppTheme",
         MainLauncher = true)]
     public class MainActivity : Activity
@@ -15,7 +15,7 @@ namespace Xamarin.Droid.CircleImageView.Sample
             base.OnCreate(savedInstanceState);
 
             // Set our view from the "main" layout resource
-            SetContentView(Resource.Layout.Main);
+            SetContentView(Resource.Layout.activity_main);
         }
     }
 }
