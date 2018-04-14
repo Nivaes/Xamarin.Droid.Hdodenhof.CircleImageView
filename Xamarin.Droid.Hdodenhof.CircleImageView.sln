@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Droid.CircleImageView", "Xamarin.Droid.CircleImageView\Xamarin.Droid.CircleImageView.csproj", "{588190B6-1E8B-490C-A444-BF7E2F8633E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Droid.Hdodenhof.CircleImageView", "Xamarin.Droid.Hdodenhof.CircleImageView\Xamarin.Droid.Hdodenhof.CircleImageView.csproj", "{588190B6-1E8B-490C-A444-BF7E2F8633E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Droid.CircleImageView.Sample", "Xamarin.Droid.CircleImageView.Sample\Xamarin.Droid.CircleImageView.Sample.csproj", "{D2F6CB14-3C23-42BC-A37D-23C059A1A089}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Droid.Hdodenhof.CircleImageView.Sample", "Xamarin.Droid.Hdodenhof.CircleImageView.Sample\Xamarin.Droid.Hdodenhof.CircleImageView.Sample.csproj", "{D2F6CB14-3C23-42BC-A37D-23C059A1A089}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2D2A03A8-7876-4E9A-B7D5-3245226C5CA0}"
 	ProjectSection(SolutionItems) = preProject

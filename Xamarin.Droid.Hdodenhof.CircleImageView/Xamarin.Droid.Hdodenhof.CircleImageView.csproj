@@ -4,7 +4,7 @@
     <AssemblyName>De.Hdodenhof.CircleImageView</AssemblyName>
     <RootNamespace>De.Hdodenhof.CircleImageView</RootNamespace>
     <Description>Binding library of de.hdodenhof.circleimageview</Description>
-    <PackageId>Nivaes.Droid.CircleImageView</PackageId>
+    <PackageId>Nivaes.Droid.Hdodenhof.CircleImageView</PackageId>
     <PackageTags>xamarin;android;monodroid;circleimageview</PackageTags>
     <GeneratePackageOnBuild Condition="'$(Configuration)' == 'Release'">true</GeneratePackageOnBuild>
   </PropertyGroup>

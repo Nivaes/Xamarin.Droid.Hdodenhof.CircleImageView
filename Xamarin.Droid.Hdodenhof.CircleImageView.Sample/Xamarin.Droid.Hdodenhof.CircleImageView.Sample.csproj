@@ -69,7 +69,7 @@
     <Folder Include="Resources\drawable\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Xamarin.Droid.CircleImageView\Xamarin.Droid.CircleImageView.csproj">
+    <ProjectReference Include="..\Xamarin.Droid.Hdodenhof.CircleImageView\Xamarin.Droid.Hdodenhof.CircleImageView.csproj">
       <Project>{588190b6-1e8b-490c-a444-bf7e2f8633e7}</Project>
       <Name>Xamarin.Droid.CircleImageView</Name>
     </ProjectReference>
