@@ -1,0 +1,4 @@
+﻿<metadata>
+  <attr path="/api/package[@name='de.hdodenhof.circleimageview']" name="managedName">De.Hdodenhof.CircleImageView</attr>
+  <attr path="/api/package[@name='de.hdodenhof.circleimageview']/class[@name='CircleImageView']" name="visibility">public</attr>
+</metadata>
