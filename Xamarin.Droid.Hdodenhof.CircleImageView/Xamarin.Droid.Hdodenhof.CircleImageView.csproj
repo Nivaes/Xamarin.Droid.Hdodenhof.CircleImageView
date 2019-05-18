@@ -12,12 +12,10 @@
     <GeneratePackageOnBuild Condition="'$(Configuration)' == 'Release'">true</GeneratePackageOnBuild>
   </PropertyGroup>
 
-  <!--<PropertyGroup Condition="$(TargetFramework.StartsWith('MonoAndroid')) ">-->
   <PropertyGroup>
     <IsBindingProject>true</IsBindingProject>
   </PropertyGroup>
   
-  <!--<ItemGroup Condition="$(TargetFramework.StartsWith('MonoAndroid'))">-->
   <ItemGroup>
     <None Include="Resources\*.cs" />
     <Compile Remove="Resources\*.cs" />
