@@ -1,6 +1,6 @@
 ﻿<Project Sdk="MSBuild.Sdk.Extras">
   <PropertyGroup>
-    <TargetFrameworks>monoandroid90</TargetFrameworks>
+    <TargetFramework>monoandroid90</TargetFramework>
   </PropertyGroup>
 
   <PropertyGroup>
@@ -14,6 +14,9 @@
 
   <PropertyGroup>
     <IsBindingProject>true</IsBindingProject>
+    <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
+    <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
+    <AndroidResgenClass>Resource</AndroidResgenClass>
   </PropertyGroup>
   
   <ItemGroup>
