@@ -27,8 +27,4 @@
     <TransformFile Include="Transforms\*.xml" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Additions\" />
-  </ItemGroup>
-
 </Project>
