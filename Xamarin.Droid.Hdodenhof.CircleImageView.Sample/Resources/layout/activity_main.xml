@@ -7,7 +7,7 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="0dp"
+        android:layout_height="1dp"
         android:layout_weight="1"
         android:padding="@dimen/base_padding"
         android:background="@color/light">
@@ -24,7 +24,7 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="0dp"
+        android:layout_height="1dp"
         android:layout_weight="1"
         android:padding="@dimen/base_padding"
         android:background="@color/dark">
