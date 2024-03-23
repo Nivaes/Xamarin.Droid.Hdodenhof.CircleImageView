@@ -3,7 +3,7 @@
     <Copyright>Copyright (c) Nivaes Systems</Copyright>
     <PackageLicenseExpression>MS-PL</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/Nivaes/Xamarin.Droid.Hdodenhof.CircleImageView</PackageProjectUrl>
-    <PackageIcon>icon.pn</PackageIcon>
+    <PackageIcon>icon.png</PackageIcon>
     <Authors>Nivaes Systems</Authors>
     <Company>Nivaes Systems</Company>
     <Owners>Nivaes</Owners>
