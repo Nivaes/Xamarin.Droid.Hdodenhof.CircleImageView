@@ -15,6 +15,10 @@
     <GeneratePackageOnBuild Condition="'$(Configuration)' == 'Release'">true</GeneratePackageOnBuild>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="Images\icon.png" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
   <!--<PropertyGroup>
     <IsBindingProject>true</IsBindingProject>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>

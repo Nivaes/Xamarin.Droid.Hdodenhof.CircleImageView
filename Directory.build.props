@@ -1,9 +1,9 @@
 ﻿<Project>
   <PropertyGroup>
     <Copyright>Copyright (c) Nivaes Systems</Copyright>
-    <PackageLicenseUrl>http://opensource.org/licenses/ms-pl</PackageLicenseUrl>
+    <PackageLicenseExpression>MS-PL</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/Nivaes/Xamarin.Droid.Hdodenhof.CircleImageView</PackageProjectUrl>
-    <PackageIconUrl>https://i.imgur.com/D3CfFea.png</PackageIconUrl>
+    <PackageIcon>icon.pn</PackageIcon>
     <Authors>Nivaes Systems</Authors>
     <Company>Nivaes Systems</Company>
     <Owners>Nivaes</Owners>
