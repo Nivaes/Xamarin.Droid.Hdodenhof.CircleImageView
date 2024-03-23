@@ -10,16 +10,15 @@
     <AndroidUseAapt2>true</AndroidUseAapt2>
   </PropertyGroup>
 
-  <PropertyGroup>
+  <!--<PropertyGroup>
     <IsBindingProject>true</IsBindingProject>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
     <AndroidResgenClass>Resource</AndroidResgenClass>
-  </PropertyGroup>
+  </PropertyGroup>-->
   
   <ItemGroup>
     <ProjectReference Include="..\Xamarin.Droid.Hdodenhof.CircleImageView\Xamarin.Droid.Hdodenhof.CircleImageView.csproj" />
   </ItemGroup>
-
 
 </Project>

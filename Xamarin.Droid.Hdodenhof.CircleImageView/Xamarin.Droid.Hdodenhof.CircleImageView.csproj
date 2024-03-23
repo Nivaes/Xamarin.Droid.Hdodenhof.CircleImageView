@@ -3,11 +3,12 @@
   <PropertyGroup>
     <OutputType>Library</OutputType>
     <TargetFrameworks>net7.0-android;net8.0-android</TargetFrameworks>
+
+    <AssemblyName>De.Hdodenhof.CircleImageView</AssemblyName>
+    <RootNamespace>De.Hdodenhof.CircleImageView</RootNamespace>
   </PropertyGroup>
 
   <PropertyGroup>
-    <AssemblyName>De.Hdodenhof.CircleImageView</AssemblyName>
-    <RootNamespace>De.Hdodenhof.CircleImageView</RootNamespace>
     <Description>Binding library of de.hdodenhof.circleimageview</Description>
     <PackageId>Nivaes.Droid.Hdodenhof.CircleImageView</PackageId>
     <PackageTags>xamarin;android;monodroid;circleimageview;droid;hdodenhof</PackageTags>
